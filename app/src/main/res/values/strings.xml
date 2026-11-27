@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YT Фон</string>
+    <string name="tab_home">Главная</string>
+    <string name="tab_shorts">Shorts</string>
+    <string name="tab_subs">Подписки</string>
+    <string name="tab_history">История</string>
+    <string name="play">Играть</string>
+    <string name="pause">Пауза</string>
+    <string name="next">Следующий</string>
+    <string name="prev">Предыдущий</string>
+    <string name="close">Закрыть</string>
+    <string name="channel_name">Воспроизведение</string>
+    <string name="battery_title">Чтобы музыка не останавливалась</string>
+    <string name="battery_text">Samsung может выгружать приложения в фоне. Разрешите работу без ограничений батареи — тогда воспроизведение не будет прерываться.</string>
+    <string name="allow">Разрешить</string>
+    <string name="later">Позже</string>
+</resources>
